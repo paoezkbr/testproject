@@ -16,6 +16,7 @@ define(['N/record', 'N/url', 'N/https', 'N/task', 'N/runtime', 'N/search'],
 
                 try{
                     
+                    console.log('test', 'test');
 
                 } catch (e){
                     log.error('error', JSON.stringify(e));
