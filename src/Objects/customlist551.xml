@@ -1,0 +1,29 @@
+<customlist scriptid="customlist551">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>T</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Color</name>
+  <customvalues>
+    <customvalue scriptid="val_107201_6802825_688">
+      <abbreviation>BK</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Black</value>
+    </customvalue>
+    <customvalue scriptid="val_107202_6802825_946">
+      <abbreviation>GY</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Gray</value>
+    </customvalue>
+    <customvalue scriptid="val_107203_6802825_134">
+      <abbreviation>BK H</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Black Heather</value>
+    </customvalue>
+    <customvalue scriptid="val_107204_6802825_464">
+      <abbreviation>BK2</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Black2</value>
+    </customvalue>
+  </customvalues>
+</customlist>
